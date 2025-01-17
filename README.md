@@ -6,7 +6,7 @@
 
 > ## **📊 Topicwise Practice Examples**
 - **Database:** Northwind 
-> ## 1. Basic SQL Syntax and Filtering
+> ## [**1. Basic SQL Syntax and Filtering**](https://github.com/mayur-de/My_SQL_Portfolio/blob/20461f11a730771b49a03fa2fcd4637008a9135a/1_Basic_SQL_Syntax_and_Filtering.sql)
 - **Topic Covered:**
     - SQL Syntax and Queries
     - Filtering and Sorting
