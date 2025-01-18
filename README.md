@@ -4,16 +4,7 @@
 - This repository showcases my journey in mastering SQL, featuring **topic-wise practice examples** and **real-world projects**.
 - Built using **SQL Server**, demonstrating SQL queries, data manipulation, database design, and performance optimization techniques.
 
-> ## **📊 Topicwise Practice Examples**
-- **Database:** Northwind 
-> ## [**1. Basic SQL Syntax and Filtering**](https://github.com/mayur-de/My_SQL_Portfolio/blob/20461f11a730771b49a03fa2fcd4637008a9135a/1_Basic_SQL_Syntax_and_Filtering.sql)
-- **Topic Covered:**
-    - SQL Syntax and Queries
-    - Filtering and Sorting
-    - Subqueries
-    - Joins
-- 
-The practice examples are organized by topic and provide hands-on solutions to improve SQL proficiency.
+
 
 > ## **📂 Projects**
 
@@ -22,7 +13,18 @@ The practice examples are organized by topic and provide hands-on solutions to i
 - **Queries**: Data retrieval queries used in an e-commerce context, including product sales, customer transactions, etc.
 - **Executive Summary**: Insights on design choices and recommendations for optimization.
 
+---
+> ## **📊 Topicwise Practice Examples**
+> - **Database:** Northwind
+- The practice examples are organized by topic and provide hands-on solutions to improve SQL proficiency.
 
+> ## [**1. Basic SQL Syntax and Filtering**](https://github.com/mayur-de/My_SQL_Portfolio/blob/20461f11a730771b49a03fa2fcd4637008a9135a/1_Basic_SQL_Syntax_and_Filtering.sql)
+- **Topic Covered:**
+    - SQL Syntax and Queries
+    - Filtering and Sorting
+    - Subqueries
+    - Joins
+- 
 ---
 
 > ## **🚀 How to Use**
