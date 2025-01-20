@@ -16,15 +16,22 @@
 - **Executive Summary**: Insights on design choices and recommendations for optimization.
 
 ---
-> ## **📊 Topicwise Practice Examples**
-> - **Database:** Northwind
-> - The practice examples are organized by topic and provide hands-on solutions to improve SQL proficiency.
+> ## **📊 SQL Proficiency Builder**
+> - **Database:** [Northwind](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
+- The practice examples are organized by topic and provide hands-on solutions to improve SQL proficiency.
 > ## [**1. Basic SQL Syntax and Filtering**](https://github.com/mayur-de/My_SQL_Portfolio/blob/20461f11a730771b49a03fa2fcd4637008a9135a/1_Basic_SQL_Syntax_and_Filtering.sql)
 - **Topic Covered:**
-    - SQL Syntax and Queries
-    - Filtering and Sorting
-    - Subqueries
-    - Joins
+    1. SQL Syntax and Queries
+    2. Filtering and Sorting
+    3. Subqueries
+    4. Joins
+
+> ## [**2. Aggregations**](https://github.com/mayur-de/My_SQL_Portfolio/blob/50a78356515984be708d9c9e9460647946bd8afb/2_Aggregations.sql)
+- **Topics Covered**:
+    1. Aggregate Functions (SUM, AVG, COUNT, etc.)
+    2. GROUP BY and HAVING Clauses
+    3. Combining Aggregates with Filters
+    4. Practical Aggregation Queries
 
 ---
 
