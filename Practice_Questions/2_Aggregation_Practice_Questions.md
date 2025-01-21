@@ -1,9 +1,10 @@
-> # **SQL Aggregation Practice Questions**
+> # **2. SQL Aggregation Practice Questions**
 
 - This file contains **30 SQL aggregation** practice questions using the Northwind dataset.
 - **Dataset:**
   - Access `/Dataset` folder in the respository.
   - Use `instnwnd (Azure SQL Database)`, a `.sql` file.
+  - Create a database.
   - Run the script in Microsoft SQL Server.
 - The questions are solved in `2_Aggregations` file.
 - **Solutions:** [2_Aggregations.sql](https://github.com/mayur-de/My_SQL_Portfolio/blob/8fe645ebb67ff2dead317b669f46eb3a472de6dd/2_Aggregations.sql)
