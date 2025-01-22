@@ -9,10 +9,10 @@
 - The questions are solved in `1_Basic_SQL_Syntax_and_Filtering.sql` file.
 - **Solutions:** [1_Basic_SQL_Syntax_and_Filtering.sql](https://github.com/mayur-de/My_SQL_Portfolio/blob/978d1fd1bf0b88c3d0524a9fb781ddd763525722/1_Basic_SQL_Syntax_and_Filtering.sql)
 
-## Questions
+> ## Questions
 
-## **1. Basic SQL**  
-## **SQL Syntax and Queries**
+> ## **1. Basic SQL**  
+> ## **SQL Syntax and Queries**
 ### 1. Select all columns from the `Customers` table.  
 **Hint:** Use the `Customers` table.  
 
@@ -45,7 +45,7 @@
 
 ---
 
-## **2. Filtering and Sorting**  
+> ## **2. Filtering and Sorting**  
 ### 11. Select all orders from the `Orders` table where the `Freight` is greater than 100.  
 **Hint:** Use the `Orders` table.  
 
