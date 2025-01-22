@@ -45,14 +45,14 @@ SELECT ProductName, UnitPrice
 FROM Products
 WHERE UnitPrice > 20
 
--- 8. Select ProductName, QuantityPerUnit, and UnitPrice from the Products table. Only show products that are in the ìBeveragesî category.
+-- 8. Select ProductName, QuantityPerUnit, and UnitPrice from the Products table. Only show products that are in the ‚ÄúBeverages‚Äù category.
 -- Subquery ensures filtering by category name instead of relying on IDs directly
 
 SELECT ProductName, QuantityPerUnit, UnitPrice
 FROM Products
 WHERE CategoryID = (SELECT CategoryID 
-					FROM Categories
-					WHERE CategoryName = 'Beverages')
+		    FROM Categories 
+		    WHERE CategoryName = 'Beverages')
 
 -- 9. Select the first 10 orders from the Orders table.
 
@@ -80,13 +80,13 @@ SELECT *
 FROM Products
 WHERE ProductName LIKE '%sild%'
 
--- 13. List the names of customers "ContactName" from the Customers table located in ìGermanyî.
+-- 13. List the names of customers "ContactName" from the Customers table located in ‚ÄúGermany‚Äù.
 
 SELECT ContactName
 FROM Customers
 WHERE Country = 'Germany'
 
--- 14. Find the OrderID and OrderDate from the Orders table for orders shipped to ìGermanyî ("ShipCountry").
+-- 14. Find the OrderID and OrderDate from the Orders table for orders shipped to ‚ÄúGermany‚Äù ("ShipCountry").
 
 SELECT OrderID, OrderDate
 FROM Orders
@@ -114,10 +114,10 @@ WHERE UnitPrice >= 10 AND UnitPrice <= 50
 SELECT ProductName, UnitPrice
 FROM Products
 WHERE UnitPrice IN (SELECT UnitPrice 
-					FROM Products
-					WHERE UnitPrice BETWEEN 10 AND 50)
+		    FROM Products 
+		    WHERE UnitPrice BETWEEN 10 AND 50)
 
--- 17. Select the CompanyName and Country of customers who are from ìUSAî or ìUKî.
+-- 17. Select the CompanyName and Country of customers who are from ‚ÄúUSA‚Äù or ‚ÄúUK‚Äù.
 -- IN operator is optimal for multiple values.
 
 SELECT CompanyName, Country
@@ -130,7 +130,8 @@ WHERE Country IN ('USA', 'UK')
 
 SELECT * 
 FROM Customers
-WHERE CustomerID NOT IN (SELECT CustomerID FROM Customers)
+WHERE CustomerID NOT IN (SELECT CustomerID 
+			 FROM Customers)
 
 -- 19. Select all orders where the ShippedDate is later than the OrderDate.
 
@@ -145,17 +146,21 @@ SELECT *
 FROM Orders
 WHERE DATEDIFF(DAY, OrderDate, ShippedDate) > 0
 
--- 20. Select ProductName and UnitPrice for products that have ìCondimentsî in their category (using the Categories table).
+-- 20. Select ProductName and UnitPrice for products that have ‚ÄúCondiments‚Äù in their category (using the Categories table).
 
 SELECT CategoryID, ProductName, UnitPrice
 FROM Products
-WHERE CategoryID = (SELECT CategoryID FROM Categories WHERE CategoryName = 'Condiments')
+WHERE CategoryID = (SELECT CategoryID 
+		    FROM Categories 
+		    WHERE CategoryName = 'Condiments')
 
--- 21. List all employees who report to ìAndrew Fullerî in the Employees table.
+-- 21. List all employees who report to ‚ÄúAndrew Fuller‚Äù in the Employees table.
 
 SELECT * 
 FROM Employees
-WHERE ReportsTo = (SELECT EmployeeID FROM Employees WHERE FirstName = 'Andrew' AND LastName = 'Fuller')
+WHERE ReportsTo = (SELECT EmployeeID 
+		   FROM Employees 
+		   WHERE FirstName = 'Andrew' AND LastName = 'Fuller')
 
 -- 22. Find all employees who have worked for more than 5 years using the Employees table (use HireDate).
 -- Use "DATEDIFF" with "Year" interval - to caclulate year difference
@@ -163,7 +168,7 @@ SELECT *
 FROM Employees
 WHERE DATEDIFF(YEAR, HireDate, GETDATE()) > 5
 
--- 23. Find the customers whose name starts with ìAî.
+-- 23. Find the customers whose name starts with ‚ÄúA‚Äù.
 
 SELECT *
 FROM Customers
@@ -175,7 +180,7 @@ SELECT *
 FROM Orders
 WHERE ShippedDate IS NULL
 
--- 25. Select the ProductName, CategoryName, and UnitPrice for products in the ìSeafoodî category.
+-- 25. Select the ProductName, CategoryName, and UnitPrice for products in the ‚ÄúSeafood‚Äù category.
 -- Use 'JOIN' to join Categories and Products tables
 
 SELECT P.ProductName, C.CategoryName, P.UnitPrice
