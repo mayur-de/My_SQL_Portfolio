@@ -33,6 +33,15 @@
     3. Combining Aggregates with Filters
     4. Practical Aggregation Queries
 
+> ## [**3. Basic JOIN**](https://github.com/mayur-de/My_SQL_Portfolio/blob/616c9a0b2dc238f522158ed88367f212a8248cfa/3_Basic_JOIN.sql)
+- **Topics Covered**:
+    1. 
+
+> ## [**4. Subqueries**](https://github.com/mayur-de/My_SQL_Portfolio/blob/616c9a0b2dc238f522158ed88367f212a8248cfa/4_SubQueries.sql)
+- **Topics Covered**:
+    1. 
+
+
 ---
 
 > ## **🚀 How to Use**
@@ -41,10 +50,12 @@
   https://github.com/mayur-de/My_SQL_Portfolio.git
   ```
 - **Explore**:
-  - **Practice Examples**: SQL queries organized by topics to help with learning.
-    - Get the dataset from the link provided.
-    - Load the data in Microsoft SQL Server.
-    - Use the queries to fetch the data.
+  - **Practice Examples**:
+      - Goal of this repository is to create a practice guide for the future queriers.  
+      - SQL queries organized by topics as I practiced.
+      - Get the dataset from the link provided.
+      - Load the data in Microsoft SQL Server.
+      - Use the queries to fetch the data.
   - **Projects**: Real-world SQL projects stored in separate folders, demonstrating practical applications.
 
 > ## **💡 How to Contribute**
