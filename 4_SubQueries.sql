@@ -1,7 +1,5 @@
 -- 4. Subqueries
 
--- NOTE: While some queries may seem unconventional to solve with subqueries, they are structured this way to provide valuable practice.
-
 -- Use Northwind dataset for further queries
 
 USE NorthWind_Commerce
