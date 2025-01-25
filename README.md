@@ -4,17 +4,6 @@
 - This repository showcases my journey in mastering SQL, featuring **topic-wise practice examples** and **real-world projects**.
 - Built using **SQL Server**, demonstrating SQL queries, data manipulation, database design, and performance optimization techniques.
 
-> ## **📂 Projects**
-> ### 1. [**Northwind Sales Analysis: Unlocking Business Insights from Historical Sales Data**](https://github.com/yourusername/My-SQL-Portfolio/tree/e-commerce-database)
-- **Database Schema**: Schema for Northwind database.
-- **Queries**: Data retrieval queries used in an e-commerce context, including product sales, customer transactions, etc.
-- **Executive Summary**: Insights on design choices and recommendations for optimization.
-
-> ### 2. [**E-commerce Database Design**](https://github.com/yourusername/My-SQL-Portfolio/tree/e-commerce-database)
-- **Database Schema**: SQL code for designing the schema for product, customer, and order management.
-- **Queries**: Data retrieval queries used in an e-commerce context, including product sales, customer transactions, etc.
-- **Executive Summary**: Insights on design choices and recommendations for optimization.
-
 ---
 > ## **📊 SQL Proficiency Builder**
 > - **Database:** [Northwind](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
