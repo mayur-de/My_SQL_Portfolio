@@ -1,8 +1,9 @@
 > # **My SQL Portfolio**
 
 > ## **Overview**
-- This repository showcases my journey in mastering SQL, featuring **topic-wise practice examples** and **real-world projects**.
-- Built using **SQL Server**, demonstrating SQL queries, data manipulation, database design, and performance optimization techniques.
+- My journey in mastering SQL, featuring **topic-wise practice examples** and **real-world projects**.
+- Built using **SQL Server**,
+- Demonstrates SQL queries, data manipulation and analysis techniques.
 
 ---
 > ## **📊 SQL Proficiency Builder**
