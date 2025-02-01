@@ -12,7 +12,7 @@
 > ## Questions
 
 > ## **1. Basic SQL**  
-> ## **SQL Syntax and Queries**
+> ### **SQL Syntax and Queries**
 ### 1. Select all columns from the `Customers` table.  
 **Hint:** Use the `Customers` table.  
 
@@ -45,7 +45,7 @@
 
 ---
 
-> ## **2. Filtering and Sorting**  
+> ### **2. Filtering and Sorting**  
 ### 11. Select all orders from the `Orders` table where the `Freight` is greater than 100.  
 **Hint:** Use the `Orders` table.  
 
