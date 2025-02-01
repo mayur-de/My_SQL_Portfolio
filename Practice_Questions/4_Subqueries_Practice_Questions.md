@@ -47,7 +47,7 @@
 ### 12. **Retrieve the names of products that are not supplied by any supplier from the USA.**  
 **Hint:** Use the `Products` table (`ProductName`, `SupplierID`) and the `Suppliers` table (`SupplierID`, `Country`).
 
-### Correlated Subqueries
+### `Correlated Subqueries`
 
 ### 13. **Find all products that are more expensive than the average price of products in their respective category.**  
 **Hint:** Use the `Products` table (`ProductName`, `UnitPrice`, `CategoryID`).
