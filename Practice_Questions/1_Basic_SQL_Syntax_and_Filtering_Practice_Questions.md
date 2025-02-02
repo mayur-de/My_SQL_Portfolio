@@ -2,17 +2,18 @@
 
 - This file contains **25 SQL Basic Syntax and Filtering** practice questions using the Northwind dataset.
 - **Get Started:**
-  - Access `/Dataset` folder in the respository.
-  - Use `instnwnd (Azure SQL Database)`, a `.sql` file.
+  - Access [`/Dataset`](https://github.com/mayur-de/My_SQL_Portfolio/tree/ed32522fa08528eae29bc9e9f281980e83262772/Databases) folder in the respository.
+  - Use [`instnwnd (Azure SQL Database)`](https://github.com/mayur-de/My_SQL_Portfolio/blob/ed32522fa08528eae29bc9e9f281980e83262772/Databases/instnwnd%20(Azure%20SQL%20Database).sql), a `.sql` file.
   - Create a database.
   - Run the script in Microsoft SQL Server.
 - The questions are solved in `1_Basic_SQL_Syntax_and_Filtering.sql` file.
-- **Solutions:** [1_Basic_SQL_Syntax_and_Filtering.sql](https://github.com/mayur-de/My_SQL_Portfolio/blob/978d1fd1bf0b88c3d0524a9fb781ddd763525722/1_Basic_SQL_Syntax_and_Filtering.sql)
+- **_Solutions:_** [`1_Basic_SQL_Syntax_and_Filtering.sql`](https://github.com/mayur-de/My_SQL_Portfolio/blob/978d1fd1bf0b88c3d0524a9fb781ddd763525722/1_Basic_SQL_Syntax_and_Filtering.sql)
 
 > ## Questions
 
 > ## **1. Basic SQL**  
 > ### **SQL Syntax and Queries**
+
 ### 1. Select all columns from the `Customers` table.  
 **Hint:** Use the `Customers` table.  
 
