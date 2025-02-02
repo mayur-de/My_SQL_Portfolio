@@ -7,7 +7,8 @@
   - Create a database.
   - Run the script in Microsoft SQL Server.
 - The questions are solved in `1_Basic_SQL_Syntax_and_Filtering.sql` file.
-- **_Solutions:_** [`1_Basic_SQL_Syntax_and_Filtering.sql`](https://github.com/mayur-de/My_SQL_Portfolio/blob/978d1fd1bf0b88c3d0524a9fb781ddd763525722/1_Basic_SQL_Syntax_and_Filtering.sql)
+
+- **Solutions:** [`1_Basic_SQL_Syntax_and_Filtering.sql`](https://github.com/mayur-de/My_SQL_Portfolio/blob/978d1fd1bf0b88c3d0524a9fb781ddd763525722/1_Basic_SQL_Syntax_and_Filtering.sql)
 
 > ## Questions
 
