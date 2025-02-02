@@ -2,12 +2,13 @@
 
 - This file contains **20 SQL SUbqueries** practice questions using the Northwind dataset.
 - **Get Started:**
-  - Access `/Dataset` folder in the respository.
-  - Use `instnwnd (Azure SQL Database)`, a `.sql` file.
+  - Access [`/Dataset`](https://github.com/mayur-de/My_SQL_Portfolio/tree/ed32522fa08528eae29bc9e9f281980e83262772/Databases) folder in the respository.
+  - Use [`instnwnd (Azure SQL Database)`](https://github.com/mayur-de/My_SQL_Portfolio/blob/ed32522fa08528eae29bc9e9f281980e83262772/Databases/instnwnd%20(Azure%20SQL%20Database).sql), a `.sql` file.
   - Create a database.
   - Run the script in Microsoft SQL Server.
 - The questions are solved in `4_SubQueries.sql` file.
-- **Solutions:** [4_SubQueries.sql](https://github.com/mayur-de/My_SQL_Portfolio/blob/faa07b23eb22e175f2493212d212ddae4cd25fc0/4_SubQueries.sql)
+
+- **Solutions:** [`4_SubQueries.sql`](https://github.com/mayur-de/My_SQL_Portfolio/blob/faa07b23eb22e175f2493212d212ddae4cd25fc0/4_SubQueries.sql)
 
 > ## **Questions**
 
