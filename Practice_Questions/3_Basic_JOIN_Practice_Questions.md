@@ -1,13 +1,14 @@
 > # **3. Basic JOIN Practice Questions**
 
 - This file contains **25 Basic JOIN** practice questions using the Northwind dataset.
-- **Dataset:**
-  - Access `/Dataset` folder in the respository.
-  - Use `instnwnd (Azure SQL Database)`, a `.sql` file.
+- **Get Started:**
+  - Access [`/Dataset`](https://github.com/mayur-de/My_SQL_Portfolio/tree/ed32522fa08528eae29bc9e9f281980e83262772/Databases) folder in the respository.
+  - Use [`instnwnd (Azure SQL Database)`](https://github.com/mayur-de/My_SQL_Portfolio/blob/ed32522fa08528eae29bc9e9f281980e83262772/Databases/instnwnd%20(Azure%20SQL%20Database).sql), a `.sql` file.
   - Create a database.
   - Run the script in Microsoft SQL Server.
 - The questions are solved in `3_Basic_JOIN.sql` file.
-- **Solutions:** [3_Basic_JOIN.sql](https://github.com/mayur-de/My_SQL_Portfolio/blob/1839077e66e65b589efac4f98b96a4f11cd3e4ab/3_Basic_JOIN.sql)
+
+- **Solutions:** [`3_Basic_JOIN.sql`](https://github.com/mayur-de/My_SQL_Portfolio/blob/1839077e66e65b589efac4f98b96a4f11cd3e4ab/3_Basic_JOIN.sql)
 
 > # **Questions**
 
