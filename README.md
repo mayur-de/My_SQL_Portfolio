@@ -12,30 +12,30 @@
 
 > ## [**`1. Basic SQL Syntax and Filtering`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/20461f11a730771b49a03fa2fcd4637008a9135a/1_Basic_SQL_Syntax_and_Filtering.sql)
 - **Topic Covered:**
-    - SQL Syntax and Queries
-    - Filtering and Sorting
-    - Subqueries
-    - Joins
+    - `SQL Syntax and Queries`
+    - `Filtering and Sorting`
+    - `Subqueries`
+    - `Joins`
 
 > ## [**`2. Aggregations`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/50a78356515984be708d9c9e9460647946bd8afb/2_Aggregations.sql)
 - **Topics Covered**:
-    - Aggregate Functions (SUM, AVG, COUNT, etc.)
-    - GROUP BY and HAVING Clauses
-    - Combining Aggregates with Filters
-    - Practical Aggregation Queries
+    - `Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)`
+    - `GROUP BY and HAVING Clauses`
+    - `Combining Aggregates with Filters`
+    - `Practical Aggregation Queries`
 
 > ## [**`3. Basic JOIN`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/616c9a0b2dc238f522158ed88367f212a8248cfa/3_Basic_JOIN.sql)
 - **Topics Covered**:
-    - INNER JOIN
-    - LEFT OUTER JOIN
-    - RIGHT OUTER JOIN
-    - FULL OUTER JOIN
+    - `INNER JOIN`
+    - `LEFT OUTER JOIN`
+    - `RIGHT OUTER JOIN`
+    - `FULL OUTER JOIN`
 
 > ## [**`4. Subqueries`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/616c9a0b2dc238f522158ed88367f212a8248cfa/4_SubQueries.sql)
 - **Topics Covered**:
-    -  Single-Row Subqueries
-    -  Multirow Subqueries
-    -  Correlated Subqueries
+    - `Single-Row Subqueries`
+    - `Multirow Subqueries`
+    - `Correlated Subqueries`
 
 ---
 
