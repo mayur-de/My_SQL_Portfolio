@@ -1,6 +1,6 @@
 -- 4. Subqueries
 
--- Use Northwind dataset for further queries
+-- Use Northwind dataset for queries 
 
 USE NorthWind_Commerce
 
