@@ -1,18 +1,17 @@
 # **Mayur's SQL Portfolio**
 
-## **Overview**
 - My journey in mastering SQL, featuring **topic-wise practice examples** and **real-world projects**.
 - Built using **`Microsoft SQL Server`**
 - Demonstrates SQL queries, data manipulation and analysis techniques.
 
 ## **📊 SQL Solved Questions**
 
-> ### **Database:** [`Northwind`](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
+> #### **Database:** [`Northwind`](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
 - The practice examples are organized by topic and provide hands-on solutions to improve SQL proficiency.
 
 ## **1. [Basic SQL Syntax and Filtering](https://github.com/mayur-de/My_SQL_Portfolio/01_Basic_SQL_Syntax_and_Filtering.sql)**  
-- **Questions:** [View Here](https://github.com/dummy-link/questions)  
-- **Solutions:** [View Here](https://github.com/dummy-link/solutions)  
+- **Questions:** [**View Here**](https://github.com/dummy-link/questions)  
+- **Solutions:** [**View Here**](https://github.com/dummy-link/solutions)  
 - **Topics Covered:**  
   ✅ `SQL Syntax` and `Queries`  
   ✅ `Filtering` and `Sorting`  
@@ -20,17 +19,17 @@
   ✅ `Joins`  
 
 ## **2. [Aggregations](https://github.com/mayur-de/My_SQL_Portfolio/blob/c13257ef6d850aaa317348acb1eb5295dc75bf89/02_Aggregations.sql)**  
-- **Questions:** [View Here](https://github.com/dummy-link/questions)  
-- **Solutions:** [View Here](https://github.com/mayur-de/My_SQL_Portfolio/blob/c13257ef6d850aaa317348acb1eb5295dc75bf89/02_Aggregations.sql)
+- **Questions:** [**View Here**](https://github.com/dummy-link/questions)  
+- **Solutions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/c13257ef6d850aaa317348acb1eb5295dc75bf89/02_Aggregations.sql)
 - **Topics Covered:**  
   ✅ Aggregate Functions (`SUM`, `AVG`, `COUNT`, `MIN`, `MAX`)  
   ✅ `GROUP BY` and `HAVING` Clauses  
   ✅ Combining Aggregates with Filters  
   ✅ Practical Aggregation Queries  
 
-## **3. [Basic JOIN](https://github.com/mayur-de/My_SQL_Portfolio/3_Basic_JOIN.sql)**  
-- **Questions:** [View Here](https://github.com/dummy-link/questions)  
-- **Solutions:** [View Here](https://github.com/dummy-link/solutions)  
+## **3. [Basic JOIN](https://github.com/mayur-de/My_SQL_Portfolio/blob/a9ff500d64ac6fddeda8bc48bfd76adaf92be965/03_Basic_JOIN.sql)**  
+- **Questions:** [**View Here**](https://github.com/dummy-link/questions)  
+- **Solutions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/a9ff500d64ac6fddeda8bc48bfd76adaf92be965/03_Basic_JOIN.sql)
 - **Topics Covered:**  
   ✅ `INNER JOIN`  
   ✅ `LEFT OUTER JOIN`  
@@ -38,8 +37,8 @@
   ✅ `FULL OUTER JOIN`  
 
 ## **4. [Subqueries](https://github.com/mayur-de/My_SQL_Portfolio/4_SubQueries.sql)**  
-- **Questions:** [View Here](https://github.com/dummy-link/questions)  
-- **Solutions:** [View Here](https://github.com/dummy-link/solutions)  
+- **Questions:** [**View Here**](https://github.com/dummy-link/questions)  
+- **Solutions:** [**View Here**](https://github.com/dummy-link/solutions)  
 - **Topics Covered:**  
   ✅ `Single-Row Subqueries`  
   ✅ `Multi-Row Subqueries`  
