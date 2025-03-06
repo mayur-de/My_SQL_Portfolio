@@ -10,28 +10,23 @@
 > #### **Database:** [`Northwind`](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
 - The practice examples are organized by topic and provide hands-on solutions to improve SQL proficiency.
 
-> ## [**`1. Basic SQL Syntax and Filtering`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/ab1acd43d0945dabccbb6c209bbfcdcda9a8e025/01_Basic_SQL_Syntax_and_Filtering.sql)
-- **Topic Covered:**
-    - `SQL Syntax and Queries`
-    - `Filtering and Sorting`
-    - `Subqueries`
-    - `Joins`
+## 1. [**Basic SQL Syntax and Filtering**](https://github.com/mayur-de/My_SQL_Portfolio/blob/ab1acd43d0945dabccbb6c209bbfcdcda9a8e025/01_Basic_SQL_Syntax_and_Filtering.sql)
+- `SQL Syntax and Queries`,
+- `Filtering and Sorting`,
+- `Subqueries`,
+- `Joins`
 
-> ## [**`2. Aggregations`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/50a78356515984be708d9c9e9460647946bd8afb/2_Aggregations.sql)
+## 2. [**`Aggregations`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/50a78356515984be708d9c9e9460647946bd8afb/2_Aggregations.sql)
+- `Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)`,
+- `GROUP BY and HAVING Clauses`,
+- `Combining Aggregates with Filters`,
+- `Practical Aggregation Queries`
+
+> ## 3. [**`Basic JOIN`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/616c9a0b2dc238f522158ed88367f212a8248cfa/3_Basic_JOIN.sql)
 - **Topics Covered**:
-    - `Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)`
-    - `GROUP BY and HAVING Clauses`
-    - `Combining Aggregates with Filters`
-    - `Practical Aggregation Queries`
+    - **`INNER JOIN`, `LEFT OUTER JOIN`, `RIGHT OUTER JOIN`, `FULL OUTER JOIN`**
 
-> ## [**`3. Basic JOIN`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/616c9a0b2dc238f522158ed88367f212a8248cfa/3_Basic_JOIN.sql)
-- **Topics Covered**:
-    - `INNER JOIN`
-    - `LEFT OUTER JOIN`
-    - `RIGHT OUTER JOIN`
-    - `FULL OUTER JOIN`
-
-> ## [**`4. Subqueries`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/616c9a0b2dc238f522158ed88367f212a8248cfa/4_SubQueries.sql)
+> ## 4. [**`Subqueries`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/616c9a0b2dc238f522158ed88367f212a8248cfa/4_SubQueries.sql)
 - **Topics Covered**:
     - `Single-Row Subqueries`
     - `Multirow Subqueries`
