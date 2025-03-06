@@ -19,9 +19,9 @@
   ✅ `Subqueries`  
   ✅ `Joins`  
 
-## **2. [Aggregations](https://github.com/mayur-de/My_SQL_Portfolio/2_Aggregations.sql)**  
+## **2. [Aggregations](https://github.com/mayur-de/My_SQL_Portfolio/blob/c13257ef6d850aaa317348acb1eb5295dc75bf89/02_Aggregations.sql)**  
 - **Questions:** [View Here](https://github.com/dummy-link/questions)  
-- **Solutions:** [View Here](https://github.com/dummy-link/solutions)  
+- **Solutions:** [View Here](https://github.com/mayur-de/My_SQL_Portfolio/blob/c13257ef6d850aaa317348acb1eb5295dc75bf89/02_Aggregations.sql)
 - **Topics Covered:**  
   ✅ Aggregate Functions (`SUM`, `AVG`, `COUNT`, `MIN`, `MAX`)  
   ✅ `GROUP BY` and `HAVING` Clauses  
@@ -44,8 +44,8 @@
   ✅ `Single-Row Subqueries`  
   ✅ `Multi-Row Subqueries`  
   ✅ `Correlated Subqueries`  
-
-> ## **🚀 How to Use**
+---
+## **🚀 How to Use**
 - **Clone the repository**:
   ```bash
   https://github.com/mayur-de/My_SQL_Portfolio.git
