@@ -1,16 +1,16 @@
-> # **My SQL Portfolio**
+# **Mayur's SQL Portfolio**
 
-> ## **Overview**
+## **Overview**
 - My journey in mastering SQL, featuring **topic-wise practice examples** and **real-world projects**.
 - Built using **SQL Server**,
 - Demonstrates SQL queries, data manipulation and analysis techniques.
 
-> ## **📊 SQL Proficiency Builder**
+## **📊 SQL Solved Questions**
 
 > #### **Database:** [`Northwind`](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
 - The practice examples are organized by topic and provide hands-on solutions to improve SQL proficiency.
 
-> ## [**`1. Basic SQL Syntax and Filtering`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/20461f11a730771b49a03fa2fcd4637008a9135a/1_Basic_SQL_Syntax_and_Filtering.sql)
+> ## [**`1. Basic SQL Syntax and Filtering`**](https://github.com/mayur-de/My_SQL_Portfolio/blob/ab1acd43d0945dabccbb6c209bbfcdcda9a8e025/01_Basic_SQL_Syntax_and_Filtering.sql)
 - **Topic Covered:**
     - `SQL Syntax and Queries`
     - `Filtering and Sorting`
