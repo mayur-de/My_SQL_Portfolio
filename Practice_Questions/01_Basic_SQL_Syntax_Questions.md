@@ -1,5 +1,8 @@
-# **Questionnaire:** ***Basic SQL Syntax and Filtering***
-
+# **Questionnaire: Basic SQL Syntax and Filtering**
+- The following questions can be solved using the **Northwind** dataset.
+- To set up the database in MS SQL Server, use the [`instnwnd.sql`](https://github.com/mayur-de/My_SQL_Portfolio/blob/1c111be7a93d6c07b3bb2d844c94e603566849ec/Databases/instnwnd%20(Azure%20SQL%20Database).sql) script located in the [`/Databases`](https://github.com/mayur-de/My_SQL_Portfolio/tree/1c111be7a93d6c07b3bb2d844c94e603566849ec/Databases) folder.
+- Ensure that the **Northwind database** is properly installed before attempting the queries.
+---
 ## **1. SQL Syntax and Queries**
 
 #### 1. Select all columns from the Customers table.
