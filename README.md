@@ -10,7 +10,7 @@
 - The practice examples are organized by topic and provide hands-on solutions to improve SQL proficiency.
 
 ## **1. [Basic SQL Syntax and Filtering](https://github.com/mayur-de/My_SQL_Portfolio/01_Basic_SQL_Syntax_and_Filtering.sql)**  
-- **Questions:** [**View Here**](https://github.com/dummy-link/questions)  
+- **Questions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/27667866a1250f4dbbb2f23a6a232b288b1929b8/Practice_Questions/01_Basic_SQL_Syntax_Questions.md)  
 - **Solutions:** [**View Here**](https://github.com/dummy-link/solutions)  
 - **Topics Covered:**  
   ✅ `SQL Syntax` and `Queries`  
