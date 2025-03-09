@@ -37,7 +37,7 @@
   ✅ `FULL OUTER JOIN`  
 
 ## **4. [Subqueries](https://github.com/mayur-de/My_SQL_Portfolio/4_SubQueries.sql)**  
-- **Questions:** [**View Here**](https://github.com/dummy-link/questions)  
+- **Questions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/54d355a087f7679e6c9f4f907b7ef58226b46521/Practice_Questions/04_subqueries_challenges.md)
 - **Solutions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/bfe201832c15e50e10ca27659c08fe97eec9ef59/04_SubQueries.sql)
 - **Topics Covered:**  
   ✅ `Single-Row Subqueries`  
