@@ -11,7 +11,7 @@
 
 ## **1. [Basic SQL Syntax and Filtering](https://github.com/mayur-de/My_SQL_Portfolio/01_Basic_SQL_Syntax_and_Filtering.sql)**  
 - **Questions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/27667866a1250f4dbbb2f23a6a232b288b1929b8/Practice_Questions/01_Basic_SQL_Syntax_Questions.md)  
-- **Solutions:** [**View Here**](https://github.com/dummy-link/solutions)  
+- **Solutions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/bfe201832c15e50e10ca27659c08fe97eec9ef59/01_Basic_SQL_Syntax_and_Filtering.sql)
 - **Topics Covered:**  
   ✅ `SQL Syntax` and `Queries`  
   ✅ `Filtering` and `Sorting`  
@@ -38,7 +38,7 @@
 
 ## **4. [Subqueries](https://github.com/mayur-de/My_SQL_Portfolio/4_SubQueries.sql)**  
 - **Questions:** [**View Here**](https://github.com/dummy-link/questions)  
-- **Solutions:** [**View Here**](https://github.com/dummy-link/solutions)  
+- **Solutions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/bfe201832c15e50e10ca27659c08fe97eec9ef59/04_SubQueries.sql)
 - **Topics Covered:**  
   ✅ `Single-Row Subqueries`  
   ✅ `Multi-Row Subqueries`  
