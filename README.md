@@ -19,7 +19,7 @@
   ✅ `Joins`  
 
 ## **2. [Aggregations](https://github.com/mayur-de/My_SQL_Portfolio/blob/c13257ef6d850aaa317348acb1eb5295dc75bf89/02_Aggregations.sql)**  
-- **Questions:** [**View Here**](https://github.com/dummy-link/questions)  
+- **Questions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/cb2a5bdc808019d1d3f3055cbe4c70f125702552/Practice_Questions/02_Aggregations_Questionnaire.md)
 - **Solutions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/c13257ef6d850aaa317348acb1eb5295dc75bf89/02_Aggregations.sql)
 - **Topics Covered:**  
   ✅ Aggregate Functions (`SUM`, `AVG`, `COUNT`, `MIN`, `MAX`)  
@@ -28,7 +28,7 @@
   ✅ Practical Aggregation Queries  
 
 ## **3. [Basic JOIN](https://github.com/mayur-de/My_SQL_Portfolio/blob/a9ff500d64ac6fddeda8bc48bfd76adaf92be965/03_Basic_JOIN.sql)**  
-- **Questions:** [**View Here**](https://github.com/dummy-link/questions)  
+- **Questions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/cb2a5bdc808019d1d3f3055cbe4c70f125702552/Practice_Questions/03_Basic_JOIN.md)
 - **Solutions:** [**View Here**](https://github.com/mayur-de/My_SQL_Portfolio/blob/a9ff500d64ac6fddeda8bc48bfd76adaf92be965/03_Basic_JOIN.sql)
 - **Topics Covered:**  
   ✅ `INNER JOIN`  
