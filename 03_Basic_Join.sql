@@ -43,7 +43,7 @@ JOIN Products AS P ON P.SupplierID = S.SupplierID
 -- In a LEFT JOIN, the first table in the query (before the LEFT JOIN keyword) is referred to as the left table, 
 -- and the second table (after the LEFT JOIN keyword) is referred to as the right table. 
 
--- 6. Retrieve a list of all customers (CustomerID, CompanyName) with OrderCount including those who haven’t placed any orders.
+-- 6. Retrieve a list of all customers (CustomerID, CompanyName) with OrderCount including those who havenâ€™t placed any orders.
 
 SELECT C.CustomerID, C.CompanyName, COUNT(O.OrderID) as OrderCount
 FROM Customers AS C
@@ -59,7 +59,7 @@ FROM Products AS P
 LEFT JOIN Suppliers AS S ON S.SupplierID = P.SupplierID
 ORDER BY P.ProductName
 
--- 8. Show all employees and their corresponding orders, including employees who haven’t managed any orders.
+-- 8. Show all employees and their corresponding orders, including employees who havenâ€™t managed any orders.
 
 SELECT E.EmployeeID, E.FirstName, E.LastName, O.*
 FROM Employees AS E
@@ -108,7 +108,7 @@ RIGHT JOIN Employees AS E ON E.EmployeeID = ET.EmployeeID
 LEFT JOIN Territories AS T ON ET.TerritoryID = T.TerritoryID
 ORDER BY E.FirstName
 
--- 14. Retrieve all customers and their orders, ensuring that all customers are included even if they haven’t placed an order.
+-- 14. Retrieve all customers and their orders, ensuring that all customers are included even if they havenâ€™t placed an order.
 
 SELECT C.CustomerID, C.CompanyName, O.OrderID, O.OrderDate
 FROM Customers AS C
@@ -126,7 +126,7 @@ ORDER BY C.CategoryName
 -- Combines the results of a LEFT JOIN and a RIGHT JOIN.
 -- It returns all rows from both tables, including the unmatched rows.
 
--- 16. Fetch a list of all products and their suppliers, ensuring that all products and suppliers are included, even if they don’t have a match.
+-- 16. Fetch a list of all products and their suppliers, ensuring that all products and suppliers are included, even if they donâ€™t have a match.
 
 SELECT P.ProductID, P.ProductName, S.SupplierID, S.CompanyName
 FROM Products AS P
@@ -155,7 +155,7 @@ FROM Orders AS O
 FULL OUTER JOIN Shippers AS S ON O.ShipVia = S.ShipperID
 ORDER BY O.OrderID, S.ShipperID
 
--- 20. List all categories and their products, ensuring all categories and products are included, even if they don’t have a match.
+-- 20. List all categories and their products, ensuring all categories and products are included, even if they donâ€™t have a match.
 
 SELECT C.CategoryID, C.CategoryName, P.ProductID, P.ProductName
 FROM Categories AS C
@@ -195,7 +195,7 @@ INNER JOIN Region AS R ON T.RegionID = R.RegionID
 ORDER BY TotalTerritories DESC, E.EmployeeID
 
 
--- 24. Retrieve a list of orders, including the customer name, product name, quantity ordered, and the total price for each item in the order, ensuring all orders and products are included even if they don’t have matches.
+-- 24. Retrieve a list of orders, including the customer name, product name, quantity ordered, and the total price for each item in the order, ensuring all orders and products are included even if they donâ€™t have matches.
 
 SELECT O.OrderID, C.CompanyName AS CustomerName, P.ProductName, OD.Quantity, (OD.Quantity * OD.UnitPrice) AS TotalPrice
 FROM Orders AS O
